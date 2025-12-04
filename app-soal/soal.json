@@ -1,1 +1,27 @@
 
+[
+    {
+        "soal": "Ibu kota Indonesia adalah?",
+        "a": "Bandung",
+        "b": "Jakarta",
+        "c": "Surabaya",
+        "d": "Medan",
+        "jawaban": "b"
+    },
+    {
+        "soal": "2 + 2 = ...",
+        "a": "3",
+        "b": "4",
+        "c": "5",
+        "d": "6",
+        "jawaban": "b"
+    },
+    {
+        "soal": "Bahasa pemrograman untuk web adalah?",
+        "a": "HTML",
+        "b": "CSS",
+        "c": "Javascript",
+        "d": "Semua benar",
+        "jawaban": "d"
+    }
+]
