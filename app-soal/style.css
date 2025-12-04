@@ -1,1 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.question {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.option {
+    margin: 8px 0;
+}
 
